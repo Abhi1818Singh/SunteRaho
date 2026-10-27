@@ -1,17 +1,18 @@
 # SunteRaho — Full-Stack Music Streaming Platform
 
 [![Live App](https://img.shields.io/badge/Live%20Demo-sunte--raho--nine.vercel.app-1ed760?style=for-the-badge&logo=vercel)](https://sunte-raho-nine.vercel.app)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-Google%20Drive-E37400?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1yyWgjwFcQzEFs-zojFUHq8S0pyW2juuC/view?usp=sharing)
 [![Node.js](https://img.shields.io/badge/Node.js-v20%2B-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react)](https://react.dev/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47a248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 **SunteRaho** (सुनते रहो — *"Keep Listening"*) is a modern full-stack music streaming web application inspired by Spotify. Engineered with an obsidian dark theme, vibrant Spotify-green accents, sharp geometric card architecture, and seamless persistent audio playback, SunteRaho bridges the gap between music listeners and independent creators.
 
 ---
 
-### 🌐 Live Deployment
+### 🌐 Live Deployment & Links
 - **Live Application URL**: [**https://sunte-raho-nine.vercel.app**](https://sunte-raho-nine.vercel.app)
+- **Demo Video Walkthrough**: [**Watch on Google Drive**](https://drive.google.com/file/d/1yyWgjwFcQzEFs-zojFUHq8S0pyW2juuC/view?usp=sharing)
 - **GitHub Repository**: [**https://github.com/Abhi1818Singh/SunteRaho**](https://github.com/Abhi1818Singh/SunteRaho)
 
 > [!NOTE]
@@ -40,6 +41,7 @@
 6. [Environment Variables Reference](#-environment-variables-reference)
 7. [Installation & Setup](#-installation--setup)
 8. [Complete REST API Documentation](#-complete-rest-api-documentation)
+9. [Conclusion](#-conclusion)
 
 ---
 
@@ -279,5 +281,12 @@ npm run dev
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 🏁 Conclusion
+
+**SunteRaho** bridges the gap between everyday music discovery and creator-first transparency. By pairing a high-performance, persistent React streaming client with a resilient Express and MongoDB backend, the platform delivers a cohesive listening experience inspired by modern streaming standards:
+
+- **Uninterrupted Audio**: Smooth client-side route navigation with uninterrupted HTML5 global audio streaming, queue management, and volume retention.
+- **Genuine Analytics & Creator Control**: Direct track-level ownership, transparent listening thresholds (>=30s play verification), and real-time MongoDB aggregation metrics for artists.
+- **Modern Obsidian Architecture**: Clean, sharp geometric design language with rapid response times and dedicated mobile navigation.
+
+Whether you are an independent artist looking to share your discography or a listener exploring curated tracks, SunteRaho provides a secure, responsive, and distraction-free audio platform.
